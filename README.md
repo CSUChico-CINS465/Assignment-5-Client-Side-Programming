@@ -4,7 +4,8 @@ Leverage front end JS to do something interesting
 ## In this assignment your website needs to do the following:
 
 * Do something to demonstrate the usefulness of Javascript
-  * Ideally you should live update data from your backend without the client side having to refresh the page.  
+  * Ideally you should live update data from your backend without the client side having to refresh the page. 
+  * Make it clear to me what your Javascript does and why it's useful. 
 * Be creative
 * Be submitted to GitHub correctly
 * You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/1.10/topics/http/urls/)
